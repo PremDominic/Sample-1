@@ -1,3 +1,3 @@
-# First try on github
+# Hello Developers arounf the world
 
-Hello to all developers in GIthib 
+This is my first try on Github
